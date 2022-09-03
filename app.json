@@ -71,7 +71,7 @@
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
             "required": false,
-            "value":"{pp} Active since {uptime}\n User:{sender}"
+            "value":"{pp} 𝘼𝘿𝙃𝙄 𝘼𝙉𝙉𝘼𝙉𝙎 𝘽𝙊𝙏 𝙄𝙎 𝘼𝙇𝙒𝘼𝙔𝙎 𝘼𝘾𝙏𝙄𝙑𝙀 {uptime}\n User:{sender}"
         },
        "SESSION": {
             "description": "Your MD session",
